@@ -1,0 +1,226 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RESORT MANAGEMENT SYSTEM
+</name>
+</assembly>
+<members>
+<member name="T:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources._5star">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources._String">
+<summary>
+  Looks up a localized string similar to WallPaper_1.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.buttlers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.CoatOfArms">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.FemaleAvatar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.HotelIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.housekeepers">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Housekeeping">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.imageicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Mail">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.maintenance">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.MaleAvatar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.maximize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.MealIcon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.minimize">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.power_off">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Print">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.reservation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.roomservice">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.SMS">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Theme_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Theme_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Theme_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Theme_8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.users">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.vbinformation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.VBPasscode">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.vbquestion">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.VbSend">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Wallpaper_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Wallpaper_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Wallpaper_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Wallpaper_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Wallpaper_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Wallpaper_6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Wallpaper_7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:RESORT_MANAGEMENT_SYSTEM.My.Resources.Resources.Wallpaper_8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
